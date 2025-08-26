@@ -15,6 +15,10 @@
 - **💫 Interactive CLI**: Beautiful command-line interface with real-time feedback
 - **🎯 Static Site Focus**: Optimized for static websites and landing pages
 
+## Video Demo
+
+![Video Demo](https://raw.githubusercontent.com/tarunkumar2005/mirra/main/video/mirra-demo.mp4)
+
 ## 🚀 Quick Start
 
 ### Prerequisites
