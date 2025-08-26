@@ -1,0 +1,34 @@
+{
+  "name": "mirra-cli",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "AI-powered CLI agent for website cloning",
+  "bin": {
+    "mirra": "./cli.js"
+  },
+  "dependencies": {
+    "@clack/prompts": "^0.11.0",
+    "@openai/agents": "^0.0.17",
+    "ai": "^5.0.22",
+    "chalk": "^5.6.0",
+    "commander": "^14.0.0",
+    "crawlee": "^3.14.1",
+    "dotenv": "^17.2.1",
+    "express": "^5.1.0",
+    "figlet": "^1.8.2",
+    "gradient-string": "^3.0.0",
+    "node-fetch": "^3.3.2",
+    "openai": "^5.15.0",
+    "playwright": "^1.55.0",
+    "winston": "^3.17.0",
+    "zod": "3"
+  },
+  "keywords": [
+    "cli",
+    "ai",
+    "website",
+    "cloning",
+    "scraping"
+  ],
+  "author": "Your Name"
+}
