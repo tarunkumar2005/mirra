@@ -17,7 +17,7 @@
 
 ## Video Demo
 
-![Video Demo](https://youtu.be/lWqLCaUfhtE?si=oWiMHgrzjPsfNNSy)
+https://youtu.be/lWqLCaUfhtE?si=oWiMHgrzjPsfNNSy
 
 ## 🚀 Quick Start
 
