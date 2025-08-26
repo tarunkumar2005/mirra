@@ -17,7 +17,7 @@
 
 ## Video Demo
 
-![Video Demo](https://raw.githubusercontent.com/tarunkumar2005/mirra/main/video/mirra-demo.mp4)
+![Video Demo](https://youtu.be/lWqLCaUfhtE)
 
 ## 🚀 Quick Start
 
